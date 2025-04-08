@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ghế ăn bọc da mã ",
+      "price": 35000,
+      "image": "/img/product_1.png",
+      "desc": "Ghế ăn Hiroshima được thiết kế bởi đội ngũ Baohan Co.ltd. Đây là sản phẩm ghế ăn cao cấp có thiết kế mạnh mẽ tinh giản mà vẫn giữ được những nét đẹp nguyên sơ mộc mạc.",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    },
+    {
+      "id": 2,
+      "name": "Mẫu ghế gỗ đẹp bọc da cao cấp và sang trọng ",
+      "price": 40000,
+      "image": "/img/product_2.png",
+      "desc": "Ghế gỗ M8-3091 kết hợp giữa khung gỗ tự nhiên và đệm bọc da, phù hợp cho nhiều không gian như phòng ăn, phòng khách hay quán cafe, mang lại sự thoải mái và thẩm mỹ cao.",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    },
+    {
+      "id": 3,
+      "name": "Ghế Sofa Mây Dành Cho Trẻ Em ",
+      "price": 40000,
+      "image": "/img/product_3.png",
+      "desc": "Ghế sofa mây cho trẻ em được làm thủ công từ mây tự nhiên, thiết kế không góc cạnh đảm bảo an toàn cho trẻ nhỏ, đồng thời là điểm nhấn trang trí độc đáo cho không gian của bé.",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    },
+    {
+      "id": 4,
+      "name": "Ghế Lưới Văn Phòng M1056-02",
+      "price": 40000,
+      "image": "/img/product_4.png",
+      "desc": "Ghế lưới M1056-02 với thiết kế hiện đại, lưng ghế lưới kết hợp đệm ngồi êm ái, tay ghế và chân ghế nhựa cao cấp, phù hợp cho văn phòng làm việc, mang lại sự thoải mái và chuyên nghiệp.",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    },
+    {
+      "id": 5,
+      "name": "Bàn ghế ăn mẫu triện thọ mặt tràn kết hợp bàn tròn hàng VIP",
+      "price": 40000,
+      "image": "/img/product_5.png",
+      "desc": "Bộ bàn ghế ăn được làm từ gỗ Gõ đỏ, thiết kế bàn tròn kết hợp ghế với mặt tràn liền khối, mang lại sự sang trọng và bền bỉ cho không gian phòng ăn.",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    },
+    {
+      "id": 6,
+      "name": "Ghế Xoay Da Cao cấp  ",
+      "price": 40000,
+      "image": "/img/product_7.png",
+      "desc": "Ghế được thiết kế với đệm tựa bọc da thật phần tiếp xúc, da công nghiệp hoặc da PVC, kết hợp với chân thép mạ và tay gỗ sơn PU. Kích thước: W670 x D720 x H(1130-1185) mm",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    },
+    {
+      "id": 7,
+      "name": "Ghế Sofa Vải ",
+      "price": 40000,
+      "image": "/img/product_8.png",
+      "desc": "Mẫu ghế sofa vải với kích thước chiều dài L1: 2650 x 1880 * 880 * 730 mm; 970 x 900 mm và chiều dài L2: 1630 x 970 x 900 mm. Ghế được tặng kèm 03 gối ôm kích thước 30 x 30 cm và 02 đôn kích thước 35 x 35 cm",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    },
+    {
+      "id": 8,
+      "name": "Ghế Băng G Bench:",
+      "price": 40000,
+      "image": "/img/product_2.png",
+      "desc": "Ghế băng G Bench được làm từ gỗ Teak và có màu sắc đen. Sản phẩm được sản xuất bởi 282 Design, mang lại sự kết hợp giữa nghệ thuật và thiên nhiên trong thiết kế. ",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    },
+    {
+      "id": 9,
+      "name": "Trà sữa socola",
+      "price": 38000,
+      "image": "/img/product_2.png",
+      "desc": "Trà sữa socola thơm ngon, ngọt ngào, kết hợp với thạch socola mềm dẻo.",
+      "availability": "còn hàng",
+      "category": "ghế gia đình"
+    }
+  ],
+  "carts": [
+    {
+      "user": {
+        "email": "viet223331111@gmail.com",
+        "id": 2
+      },
+      "cartItems": [
+        {
+          "id": 2,
+          "name": "Mẫu ghế gỗ đẹp bọc da cao cấp và sang trọng ",
+          "price": 40000,
+          "quantity": 1,
+          "image": "/img/product_2.png"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "user": {
+        "email": "viet223331111@gmail.com",
+        "id": 2
+      },
+      "cartItems": [
+        {
+          "id": 2,
+          "name": "Mẫu ghế gỗ đẹp bọc da cao cấp và sang trọng ",
+          "price": 40000,
+          "quantity": 1,
+          "image": "http://127.0.0.1:5500/img/product/product_2.png"
+        },
+        {
+          "id": 1,
+          "name": "Ghế ăn bọc da mã ",
+          "price": 35000,
+          "quantity": 1,
+          "image": "http://127.0.0.1:5500/img/product/product_1.png"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "userId": 2,
+      "userInfo": {
+        "name": "Lexus LS500w",
+        "email": "viet223331111@gmail.com",
+        "phone": "www",
+        "address": "2222222"
+      },
+      "cartItems": [
+        {
+          "id": 2,
+          "name": "Mẫu ghế gỗ đẹp bọc da cao cấp và sang trọng ",
+          "price": 40000,
+          "quantity": 1,
+          "image": "http://127.0.0.1:5500/img/product/product_2.png"
+        },
+        {
+          "id": 1,
+          "name": "Ghế ăn bọc da mã ",
+          "price": 35000,
+          "quantity": 1,
+          "image": "http://127.0.0.1:5500/img/product/product_1.png"
+        }
+      ],
+      "totalPrice": 75000,
+      "shipping": 50,
+      "grandTotal": 75050,
+      "date": "2025-04-08T02:24:43.829Z",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "hoadv21@fpt.edu.vn",
+      "password": "$2a$10$vldMF0kR7oyk8yS/31LuietJWJ5ZXL5JGXupkXtzd1WPbA0fn6Yyy",
+      "id": 1
+    },
+    {
+      "email": "viet223331111@gmail.com",
+      "password": "$2a$10$ZwQO2srysMITSYSi16JCSOmTBkWWM2.WbDJ6x6b7Rkuos2DV/krR2",
+      "id": 2
+    },
+    {
+      "email": "vtrachloi@gmail.com",
+      "password": "$2a$10$5b.2l4iH2nioSoVvyaLtF.AYjSMX6Pi5qIYzJ11RdsMJePRqRYslG",
+      "id": 3
+    },
+    {
+      "email": "fsfs@gmail.com",
+      "password": "$2a$10$nFo5.MDiYjWYXSkV9keEAu2c/Q2z6VhNk2UGb60XE5pdm81k6Q47u",
+      "id": 4
+    },
+    {
+      "email": "duan1@gmail.com",
+      "password": "$2a$10$syBX2YvU2uX7SECiuu8BzuVvm2uoWXGZn0pfWqPKyBXcxHxM0QY3i",
+      "id": 5
+    }
+  ]
+}
