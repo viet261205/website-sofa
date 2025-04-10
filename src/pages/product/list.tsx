@@ -21,7 +21,7 @@ function ProductList() {
       title: "image",
       dataIndex: "image",
       key: "image",
-      render: (image) => {
+      render: (image: string) => {
         return <Image src={image} width={100} />;
       },
     },
